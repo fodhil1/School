@@ -1,0 +1,1 @@
+This web application enable us to add new students to our database, edit our database, and delete students from the data base. Also, we can see the detail information of any student in our database.  
