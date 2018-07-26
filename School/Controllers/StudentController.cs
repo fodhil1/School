@@ -24,8 +24,8 @@ namespace School.Controllers
                         new Student { StudentId = 11, LastName = "Hudson", FirstName = "Stanley" },
                         new Student { StudentId = 12, LastName = "Bratton", FirstName = "Creed" },
                         new Student { StudentId = 13, LastName = "Vance", FirstName = "Phyllis" },
-                        new Student { StudentId = 14, LastName = "Howard", FirstName = "Ryan" },
-                        new Student { StudentId = 15, LastName = "Philbin", FirstName = "Darryl" }
+                        //new Student { StudentId = 14, LastName = "Howard", FirstName = "Ryan" },
+                        //new Student { StudentId = 15, LastName = "Philbin", FirstName = "Darryl" }
                     };
 
         public ActionResult Index()
